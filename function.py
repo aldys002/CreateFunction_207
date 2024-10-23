@@ -18,7 +18,7 @@ print("Hasil konversi:", hasilSuhu)
 
 
 
-# nomor 2
+
 luaslingkaran = lambda jarijari: 3.14 * jarijari ** 2
 
 # Menerima input dari pengguna
